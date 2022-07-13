@@ -5,8 +5,19 @@ number is odd
 
 
 
-test number 4 is even or not
+test:
+number 4 is even or not
 
 4%2==0
 
 4 is even 
+
+test:
+number 7
+
+7%2!=0
+
+number is odd
+
+
+
