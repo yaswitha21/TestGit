@@ -1,4 +1,12 @@
-even
+
 A number is even if number%2==0
 else 
 number is odd
+
+
+
+test number 4 is even or not
+
+4%2==0
+
+4 is even 
